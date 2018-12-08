@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="movie_poster">Movie poster</string>
+    <string name="error_message">Movie data is unavailable</string>
+    <string name="most_popular">Most popular</string>
+    <string name="highest_rated">Highest rated</string>
+    <string name="vote_average">%1$s/10</string>
+    <string name="favorites">Favorites</string>
+    <string name="favorite">Favorite</string>
+    <string name="videos">Videos</string>
+    <string name="reviews">Reviews</string>
+    <string name="play">Play</string>
+</resources>
